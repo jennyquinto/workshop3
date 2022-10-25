@@ -6,8 +6,6 @@ import capsule from '../../asset/image-space-capsule-portrait.jpg'
 
 import { Link } from 'react-router-dom';
 
-const fondo = 'asset/image-space-capsule-portrait.jpg'
-
 function Content() {
 
     const [spacePage, setSpacePage] = useState(0);
